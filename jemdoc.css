@@ -92,7 +92,7 @@ div.menu-category {
 div.menu-item {
     padding-left: 16px;
     text-indent: -16px;
-	color: #000000;
+	font-variant: small-caps;
 	font-size: 130%;
 }
 
